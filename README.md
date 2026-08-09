@@ -14,6 +14,7 @@
 > - Always backup your vault before encrypting important files
 > - The developer is not responsible for any data loss
 > - Losing the password means losing the file
+> - **The mobile version is not yet fully developed. You may encounter some bugs and errors.**
 
 ## Next-generation file encryption solution
 
